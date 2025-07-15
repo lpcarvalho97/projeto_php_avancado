@@ -1,0 +1,17 @@
+{
+    "name": "lucas/projetophpavancado",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\Projeto_php_avancado\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lpcarvalho97",
+            "email": "lucasadmcarvalho@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
