@@ -1,5 +1,5 @@
 {
-    "name": "lucas/projetophpavancado",
+    "name": "lpcarvalho97/projetophpavancado",
     "autoload": {
         "psr-4": {
             "Lucas\\Projeto_php_avancado\\": "src/"
